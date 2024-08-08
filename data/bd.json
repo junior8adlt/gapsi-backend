@@ -1,0 +1,24 @@
+{
+  "providers": [
+    {
+      "name": "SuKarne",
+      "reason": "SuKarne",
+      "address": "Sinaloa"
+    },
+    {
+      "name": "FirstCash",
+      "reason": "Cash",
+      "address": "Chapala"
+    },
+    {
+      "name": "Walmart",
+      "reason": "Great Value",
+      "address": "USA"
+    },
+    {
+      "name": "Sams",
+      "reason": "Great Value",
+      "address": "USA"
+    }
+  ]
+}

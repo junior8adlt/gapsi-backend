@@ -1,0 +1,25 @@
+
+### `.gitignore`
+
+```gitignore
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Dependencias de npm
+package-lock.json
+
+# Archivos de configuración del entorno
+.env
+
+# Archivos de caché
+.cache/
+
+# Archivos de compilación de la aplicación
+dist/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
